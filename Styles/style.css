@@ -5,3 +5,12 @@
   font-variation-settings:
     "wdth" 100;
 }
+.first{
+    background-image: url("../images/Banner\ Image.png");
+    color: white;
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    /* padding: 140px 50px; */
+    border-radius: 16px;
+}
