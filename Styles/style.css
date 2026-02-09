@@ -46,3 +46,11 @@
     padding-right: 399px;
     padding-top: 20px;
 }
+.parcent{
+    color: #FF0000;
+    font-size: 70px;
+    transform: translateY(30px);
+}
+.deals{
+    color: #FF0000;
+}
