@@ -7,10 +7,42 @@
 }
 .first{
     background-image: url("../images/Banner\ Image.png");
-    color: white;
+    /* opacity: 600px; */
+    color: #FFFFFF;
     max-width: 1320px;
     height: 600px;
     margin: 0 auto;
     /* padding: 140px 50px; */
     border-radius: 16px;
+}
+.year{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* gap: -200px; */
+    transform: translateY(180px);
+    /* padding: 117px 344px; */
+}
+.happy{
+    font-size: 50px;
+    font-weight: 500;
+}
+.party{
+    transform: translateY(-150px);
+    font-size: 70px;
+}
+
+/* Second-Part */
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 802px;
+    height: 806px;
+    margin: 0 auto;
+    padding-left: 399px;
+    padding-right: 399px;
+    padding-top: 20px;
 }
