@@ -136,7 +136,7 @@
 
 /* Sixth-Part */
 .function{
-    border: 2px solid aqua;
+    /* border: 2px solid aqua; */
     max-width: 1320px;
     height: 986px;
     margin: 0 auto;
@@ -147,8 +147,42 @@
     background-position: center 100%;
 }
 .img-02{
-    transform: translateY(130px);
+    transform: translateY(2px);
 }
 .img-03{
-    transform: translateY(-130px);
+    transform: translateY(-250px);
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bold{
+    font-size: 72px;
+}
+.red-02{
+    color: #FF0000;
+}
+.functional{
+    transform: translateY(40px);
+}
+.up{
+    transform: translateY(-40px);
+}
+
+/* Seventh-Part */
+.seventh{
+    max-width: 1320px;
+    height: 1163px;
+    margin: 0 auto;
+    margin-top: 130px;
+}
+
+/* Eighth-Part */
+.eighth{
+    max-width: 1320px;
+    height: 616px;
+    margin: 0 auto;
+    margin-top: 130px;
 }
