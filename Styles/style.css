@@ -54,3 +54,26 @@
 .deals{
     color: #FF0000;
 }
+
+
+/* Third-Part */
+
+.third{
+    background-image: url("../images/Vectorrr.png");
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    margin-top: 130px;
+}
+.welcome{
+    margin-left: 100px;
+    transform: translateY(200px);
+}
+.midnight{
+    font-size: 64px;
+    font-weight: bold;
+}
+.join{
+    transform: translateX(20px);
+}
