@@ -124,9 +124,31 @@
 }
 .red{
     color: #FF0000;
+    transform: translateY(30px);
 }
 .font{
     font-size: 48px;
-    font-weight: bold;
-    
+    font-weight: bold; 
+}
+.best{
+    transform: translateY(60px);
+}
+
+/* Sixth-Part */
+.function{
+    border: 2px solid aqua;
+    max-width: 1320px;
+    height: 986px;
+    margin: 0 auto;
+    margin-top: 130px;
+    background-image: url("../images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center 100%;
+}
+.img-02{
+    transform: translateY(130px);
+}
+.img-03{
+    transform: translateY(-130px);
 }
